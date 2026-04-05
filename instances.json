@@ -1,10 +1,10 @@
 [
   {
-    "name": "Survival Privado",
+    "name": "Survival",
     "image": "https://raw.githubusercontent.com/dnielnt/fixlauncher-files/main/images/survival.png",
     "description": "Servidor survival con mods",
     "version": "1.20.1",
     "loader": "fabric",
-    "download": "https://raw.githubusercontent.com/dnielnt/fixlauncher-files/main/packs/Forge 1.21.1.zip"
+    "download": "https://raw.githubusercontent.com/dnielnt/fixlauncher-files/main/packs/Forge-1.21.1.zip"
   }
 ]
