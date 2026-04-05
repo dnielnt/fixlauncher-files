@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Survival Privado",
+    "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/images/survival.png",
+    "description": "Servidor survival con mods",
+    "version": "1.20.1",
+    "loader": "fabric",
+    "download": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/packs/survival.zip"
+  }
+]
